@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[4954],{5670:function(e){e.exports=JSON.parse('{"title":"Reference","slug":"/category/reference","permalink":"/category/reference","navigation":{"previous":{"title":"Welcome to the Paper Wiki","permalink":"/paper/"},"next":{"title":"Configuring paper.yml","permalink":"/paper/reference/paper-yml"}}}')}}]);
