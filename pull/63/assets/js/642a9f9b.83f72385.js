@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[8545],{5425:e=>{e.exports=JSON.parse('{"title":"Reference","slug":"/cat/admin/reference","permalink":"/velocity/cat/admin/reference","navigation":{"previous":{"title":"Migration Guide","permalink":"/velocity/migration"},"next":{"title":"Configuring Velocity","permalink":"/velocity/configuration"}}}')}}]);
